@@ -16,6 +16,7 @@ pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 facebook
 #
 facebook.com, 325373553076038, DIRECT, c3e20eee3f780d68
+facebook.com, 254279540730372, RESELLER, c3e20eee3f780d68
 #
 mintegral
 #
